@@ -1,7 +1,7 @@
 {
   "name": "Shumaya for tradespeople",
   "short_name": "Shumaya",
-  "start_url": "/champion",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#12100E",
   "theme_color": "#DB6418",
