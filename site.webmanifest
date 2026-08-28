@@ -1,0 +1,20 @@
+{
+  "name": "Shumaya for tradespeople",
+  "short_name": "Shumaya",
+  "start_url": "/champion",
+  "display": "standalone",
+  "background_color": "#12100E",
+  "theme_color": "#DB6418",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "480x480",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "480x480",
+      "type": "image/png"
+    }
+  ]
+}
